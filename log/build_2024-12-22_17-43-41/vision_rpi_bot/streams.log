@@ -1,0 +1,25 @@
+[0.495s] Invoking command in '/home/vincent/ros2_ws/src/vision_rpi_bot': PYTHONPATH=/home/vincent/ros2_ws/build/vision_rpi_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_rpi_bot build --build-base /home/vincent/ros2_ws/build/vision_rpi_bot/build install --record /home/vincent/ros2_ws/build/vision_rpi_bot/install.log --single-version-externally-managed install_data
+[0.624s] running egg_info
+[0.624s] writing ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/PKG-INFO
+[0.625s] writing dependency_links to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/dependency_links.txt
+[0.625s] writing entry points to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/entry_points.txt
+[0.625s] writing requirements to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/requires.txt
+[0.625s] writing top-level names to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/top_level.txt
+[0.626s] reading manifest file '../../build/vision_rpi_bot/vision_rpi_bot.egg-info/SOURCES.txt'
+[0.627s] writing manifest file '../../build/vision_rpi_bot/vision_rpi_bot.egg-info/SOURCES.txt'
+[0.627s] running build
+[0.627s] running build_py
+[0.627s] copying vision_rpi_bot/subscriber.py -> /home/vincent/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot
+[0.628s] running install
+[0.628s] running install_lib
+[0.629s] copying /home/vincent/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot/subscriber.py -> /home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages/vision_rpi_bot
+[0.629s] byte-compiling /home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages/vision_rpi_bot/subscriber.py to subscriber.cpython-310.pyc
+[0.629s] running install_data
+[0.629s] running install_egg_info
+[0.630s] removing '/home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages/vision_rpi_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[0.631s] Copying ../../build/vision_rpi_bot/vision_rpi_bot.egg-info to /home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages/vision_rpi_bot-0.0.0-py3.10.egg-info
+[0.631s] running install_scripts
+[0.643s] Installing publisher_node script to /home/vincent/ros2_ws/install/vision_rpi_bot/lib/vision_rpi_bot
+[0.643s] Installing subscriber_node script to /home/vincent/ros2_ws/install/vision_rpi_bot/lib/vision_rpi_bot
+[0.644s] writing list of installed files to '/home/vincent/ros2_ws/build/vision_rpi_bot/install.log'
+[0.658s] Invoked command in '/home/vincent/ros2_ws/src/vision_rpi_bot' returned '0': PYTHONPATH=/home/vincent/ros2_ws/build/vision_rpi_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vincent/ros2_ws/install/vision_rpi_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vision_rpi_bot build --build-base /home/vincent/ros2_ws/build/vision_rpi_bot/build install --record /home/vincent/ros2_ws/build/vision_rpi_bot/install.log --single-version-externally-managed install_data
